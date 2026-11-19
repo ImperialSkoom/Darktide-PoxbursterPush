@@ -1,0 +1,14 @@
+# Local editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local logs and compiled Lua
+*.log
+*.luac
